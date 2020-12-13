@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\App.xaml
-2-184763478
+4-132662990
 22079455622
-12-1084557238
+14-820985894
 181840064399
-Views\Pages\Home\LoginPage.xaml;Views\Windows\MainWindow.xaml;
+Views\Pages\AdminPage\AdminAddData.xaml;Views\Pages\AdminPage\AdminViewData.xaml;Views\Pages\Home\LoginPage.xaml;Views\Windows\MainWindow.xaml;
 
 False
 

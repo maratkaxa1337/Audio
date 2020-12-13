@@ -64,6 +64,14 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="Views\Pages\AdminPage\AdminAddData.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\Pages\AdminPage\AdminViewData.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Views\Pages\Home\LoginPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -97,6 +105,12 @@
     </Compile>
     <Compile Include="Models\SignIn.cs">
       <DependentUpon>ContextModels.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Pages\AdminPage\AdminAddData.xaml.cs">
+      <DependentUpon>AdminAddData.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Pages\AdminPage\AdminViewData.xaml.cs">
+      <DependentUpon>AdminViewData.xaml</DependentUpon>
     </Compile>
     <Compile Include="Views\Pages\Home\LoginPage.xaml.cs">
       <DependentUpon>LoginPage.xaml</DependentUpon>
@@ -141,6 +155,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Resource Include="Image\Kolonki.png" />
     <Content Include="Models\ContextModels.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>ContextModels.Context.cs</LastGenOutput>
@@ -155,6 +170,8 @@
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Views\Pages\User\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

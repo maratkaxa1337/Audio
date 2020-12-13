@@ -8,26 +8,48 @@
       d:DesignHeight="450" d:DesignWidth="800"
       Title="LoginPage">
 
-    <Grid Background="Purple">
+    <Grid Background="Beige">
+        <Image Source="/Image/kolonki.png"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Bottom"
+                />
+
+
+        <StackPanel>
+                    <TextBlock x:Name="WelcomeAudio"
+                               Text="Добро Пожаловать AudioTex"
+                               FontSize="35"
+                               HorizontalAlignment="Center"
+                               VerticalAlignment="Bottom"
+                               Margin="0,3,0,0"
+                               FontWeight="SemiBold"
+                               FontFamily="Arial"/>
+                </StackPanel>
+        
         <!--Глобальный стек-->
         <StackPanel VerticalAlignment="Center"
-                    HorizontalAlignment="Center">
+                    HorizontalAlignment="Center"> 
 
             <StackPanel Orientation="Horizontal">
+                
                 <!--Стек для текста-->
+                
                 <StackPanel>
 
                     <TextBlock x:Name="Username"
                            FontSize="14"
                            Text="Имя пользователя"
                            Margin="0,0,0,0"
-                           Foreground="White"/>
+                           Foreground="Red"
+                               FontWeight="SemiBold"
+                               FontFamily="Arial"/>
                     <TextBlock x:Name="Password"
                            FontSize="14"
                            Text="Пароль"
                                Width="50"
-                           Foreground="White"
-                               Margin="66,9,0,0"/>
+                           Foreground="Red"
+                               Margin="66,9,0,0"
+                               FontWeight="SemiBold"/>
 
                 </StackPanel>
                 <StackPanel Margin="6,0,0,0">

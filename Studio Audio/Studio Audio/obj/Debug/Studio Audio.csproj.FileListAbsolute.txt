@@ -22,3 +22,7 @@ E:\Сбор моих программы на Любом языке\C#\Studio Aud
 E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\bin\Debug\ru\EntityFramework.resources.dll
 E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Studio Audio_Content.g.cs
 E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Studio Audio.csproj.CopyComplete
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Views\Pages\AdminPage\AdminAddData.g.cs
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Views\Pages\AdminPage\AdminViewData.g.cs
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Views\Pages\AdminPage\AdminAddData.baml
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Views\Pages\AdminPage\AdminViewData.baml

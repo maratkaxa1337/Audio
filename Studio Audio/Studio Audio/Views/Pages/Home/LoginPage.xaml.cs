@@ -1,4 +1,5 @@
 ﻿using Studio_Audio.Context;
+using Studio_Audio.Views.Pages.AdminPage;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -45,6 +46,7 @@ namespace Studio_Audio.Views.Pages.Home
                     {
                         case "A":
                             MessageBox.Show("Привет Администратор" +  "   " + currentUser.Username);
+                            NavigationService.Navigate(new AdminViewData() );
                             break;
                         case "U":
                             MessageBox.Show("Привет пользователь" +  "   " +  currentUser.Username);
