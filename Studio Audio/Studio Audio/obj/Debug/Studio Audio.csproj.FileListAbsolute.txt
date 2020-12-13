@@ -1,0 +1,24 @@
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\bin\Debug\Studio Audio.exe.config
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\bin\Debug\Studio Audio.exe
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\bin\Debug\Studio Audio.pdb
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Studio Audio.csprojAssemblyReference.cache
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Views\Pages\Home\LoginPage.g.cs
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Views\Windows\MainWindow.g.cs
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\App.g.cs
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Studio Audio_MarkupCompile.cache
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Studio Audio_MarkupCompile.lref
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Views\Pages\Home\LoginPage.baml
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Views\Windows\MainWindow.baml
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Studio Audio.g.resources
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Studio_Audio.Properties.Resources.resources
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Studio Audio.csproj.GenerateResource.cache
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Studio Audio.csproj.CoreCompileInputs.cache
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Studio Audio.exe
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Studio Audio.pdb
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\bin\Debug\EntityFramework.dll
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\bin\Debug\EntityFramework.SqlServer.dll
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\bin\Debug\EntityFramework.xml
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\bin\Debug\EntityFramework.SqlServer.xml
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\bin\Debug\ru\EntityFramework.resources.dll
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Studio Audio_Content.g.cs
+E:\Сбор моих программы на Любом языке\C#\Studio Audio\Studio Audio\obj\Debug\Studio Audio.csproj.CopyComplete
